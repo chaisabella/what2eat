@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{{brand}} products </title>
+        <link href="../static/topnav.css" rel="stylesheet">
+        <link href="../static/homepage.css" rel="stylesheet">
+
+
+    </head>
+    
+    <body>
+        <div class="topnav">
+            <a id="heading" href ="/">What2Eat  </a>
+            <a href="/help">Help</a>
+            <a href="/contact">Contact</a>
+        </div>
+
+        <div class="row">
+
+            <div class="column">
+                <div class="text-bg">
+                    <h2> {{brand}} carries:</h2>
+                    <ul> 
+                        {% for product in products: %}
+                        <li>{{product}}</option>
+                        {% endfor %}
+                    </ul>
+                    <a href="/">Search different brands/products</a>
+                </div>
+            </div>
+                           
+        </div> 
+
+    </body>
+</html>
