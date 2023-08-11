@@ -1,5 +1,6 @@
 ## Final Project for CS 257: Software Design
 ### Carleton College, Spring 2022
+This is a database-backed website that can search products carried in US grocery stores. Users can conduct searches based on criteria such as brand and ingredient, or simply by the product's name. For detailed guidance, refer to the 'usage.txt' file.
 
 ### How to run the flask app:
 *  connect to perlman and clone the team repo
