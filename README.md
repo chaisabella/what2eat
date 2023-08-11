@@ -1,3 +1,6 @@
+Final Project for CS 257: Software Design, Carleton College, Spring 2022
+Database backed website 
+
 How to run the flask app:
 *  connect to perlman and clone the team repo
 *  go to ../Backend
