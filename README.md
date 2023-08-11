@@ -1,7 +1,7 @@
-Final Project for CS 257: Software Design, Carleton College, Spring 2022
-Database backed website 
+## Final Project for CS 257: Software Design
+### Carleton College, Spring 2022
 
-How to run the flask app:
+### How to run the flask app:
 *  connect to perlman and clone the team repo
 *  go to ../Backend
 *  create psqlConfig.py with a database name (teamc). a user name (teamc), and a password
@@ -11,8 +11,8 @@ How to run the flask app:
 *  go to ../Code
 *  run: python3 flaskapp.py
 
-# Team C
-Team members: 
-* Kana 
-* Isabella 
+### Team members: 
+* Isabella Cha
+* Kana Hashimoto
+
 
